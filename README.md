@@ -13,7 +13,7 @@ Maria: Add general information on annotations and databases (including caveats)
   
   HHMER3 is used for HMM profile searches of dbCAN and VOGDB
   
-  Explain the annotation outputs
+  Include tables of the annotation outputs but Melody will explain them using the produced examples
 
 
 *Maria*: Add notebook for the pipeline

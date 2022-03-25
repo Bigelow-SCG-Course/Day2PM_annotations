@@ -12,6 +12,8 @@ Maria: Add general information on annotations and databases (including caveats)
   ORF predicted amino acid sequences are searched against KEGG, Pfam, UniRef90 and MEROPS using MMseqs2 
   
   HHMER3 is used for HMM profile searches of dbCAN and VOGDB
+  
+  Explain the annotation outputs
 
 
 *Maria*: Add notebook for the pipeline
@@ -22,7 +24,6 @@ Maria: Add general information on annotations and databases (including caveats)
   - Provide link to output for all SAGs
 
 
-*Melody*: Add an extra file discussing 
-  - the annotation outputs for both Prokka and DRAM
+*Melody*: Add an extra page discussing 
   - examples of misannotations
   - how to refine annotations

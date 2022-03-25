@@ -18,7 +18,7 @@ Maria: Add general information on annotations and databases (including caveats)
 
 *Maria*: Add notebook for the pipeline
   - Set the environment for prokka
-  - Run prokka in X SAGs
+  - Run prokka in ~10 SAGs (maybe each participants picks one row)
   - Set the environement for DRAM
   - Run DRAM in one SAG
   - Provide link to output for all SAGs

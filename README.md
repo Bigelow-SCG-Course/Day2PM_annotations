@@ -22,6 +22,7 @@ In this tutorial, we will use two different annotation pipelines, [**Prokka** (S
 ## Prokka
 [Prokka](https://github.com/tseemann/prokka) is the first command line software tool to fully annotate bacterial, archeal and viral genomes. Prokka relies on external feature prediction tools to identify the coordinates of genomic features within contigs.
 
+![Table1](intro_images/Prokka_table1.png)
 
   Call genes with Prodigal 
   

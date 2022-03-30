@@ -1,7 +1,7 @@
 # Repo for Day2 PM: Annotations
 
 
-[Read more words!](docs/more_words.md)
+![Read more words!](docs/more_words.md)
 
 
 

@@ -1,9 +1,10 @@
 # Repo for Day2 PM: Annotations
 
 
-![AGTC](intro_images/Picture1.png)
+
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="750">
 Comic: Zach Weinersmith
-<img width="52" alt="image" src="https://user-images.githubusercontent.com/4502853/160729046-907ee6ed-1e53-4060-8e96-26362c06bf96.png">
+
 
 
 
@@ -22,7 +23,8 @@ In this tutorial, we will use two different annotation pipelines, [**Prokka** (S
 ## Prokka
 [Prokka](https://github.com/tseemann/prokka) is the first command line software tool to fully annotate bacterial, archeal and viral genomes. Prokka relies on external feature prediction tools to identify the coordinates of genomic features within contigs.
 
-![Table1](intro_images/Prokka_table1.png)
+
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Prokka_table1.png" width="500">
 
   Call genes with Prodigal 
   

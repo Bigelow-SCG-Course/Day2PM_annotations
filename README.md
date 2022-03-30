@@ -8,16 +8,22 @@ Comic: Zach Weinersmith
 
 
 
-## Annotation is the process of identifying and associating function to various segments of the assembled DNA sequence. It can be broken down 
+## Genome annotation: from sequence to biology  
+is the process of identifying and associating function to various segments of the assembled DNA sequence. 
+It consists of three main stages:
+- gene prediction
+- gene identification (protein coding, ribosomal RNA genes, tranfer RNA genes) 
+- identification of other genomic elements (e.g. promoters, enhancers and transcription factor binding sites)
 
-Maria: Add general information on annotations and databases (including caveats)
+
+
+
 
 
  
- **Prokka**
+ [**Prokka**](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517)
  
- **DRAM**
-  https://academic.oup.com/nar/article/48/16/8883/5884738
+ [**DRAM**](https://academic.oup.com/nar/article/48/16/8883/5884738)
   
   Call genes with Prodigal 
   

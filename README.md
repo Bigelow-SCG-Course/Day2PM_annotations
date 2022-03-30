@@ -1,7 +1,7 @@
 # Repo for Day2 PM: Annotations
 
 
-![Read more words!](intro_image/Picture1.png)
+![Read more words!](intro_images/Picture1.png)
 
 
 

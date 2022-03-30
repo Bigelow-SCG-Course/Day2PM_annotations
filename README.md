@@ -1,11 +1,14 @@
 # Repo for Day2 PM: Annotations
 
 
-![Read more words!](intro_images/Picture1.png)
+![AGTC](intro_images/Picture1.png)
+Comic: Zach Weinersmith
+<img width="52" alt="image" src="https://user-images.githubusercontent.com/4502853/160729046-907ee6ed-1e53-4060-8e96-26362c06bf96.png">
 
 
 
-Annotation is the process of identifying and associating function to various segments of the assembled DNA sequence.
+
+## Annotation is the process of identifying and associating function to various segments of the assembled DNA sequence. It can be broken down 
 
 Maria: Add general information on annotations and databases (including caveats)
 

@@ -1,6 +1,15 @@
-# Day2PM_annotations
+# Repo for Day2 PM: Annotations
+
+
+[Read more words!](docs/more_words.md)
+
+
+
+Annotation is the process of identifying and associating function to various segments of the assembled DNA sequence.
 
 Maria: Add general information on annotations and databases (including caveats)
+
+
  
  **Prokka**
  

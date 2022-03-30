@@ -2,8 +2,7 @@
 
 
 
-<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="750">
-Comic: Zach Weinersmith
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="700"> Comic: Zach Weinersmith
 
 
 
@@ -26,7 +25,7 @@ In this tutorial, we will use two different annotation pipelines, [**Prokka** (S
 
 <img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Prokka_table1.png" width="500">
 
-  Call genes with Prodigal 
+
   
   ORF predicted amino acid sequences are searched against KEGG, Pfam, UniRef90 and MEROPS using MMseqs2 
   

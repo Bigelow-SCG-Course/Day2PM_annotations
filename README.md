@@ -16,15 +16,13 @@ It consists of three main stages:
 - identification of other genomic elements (e.g. promoters, enhancers and transcription factor binding sites)
 
 
+In this tutorial, we will use two different annotation pipelines, [**Prokka** (Seeman, 2014)](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517) and  [**DRAM** (Shaffer et al. 2020)](https://academic.oup.com/nar/article/48/16/8883/5884738)
 
 
+## Prokka
+[Prokka](https://github.com/tseemann/prokka) is the first command line software tool to fully annotate bacterial, archeal and viral genomes. Prokka relies on external feature prediction tools to identify the coordinates of genomic features within contigs.
 
 
- 
- [**Prokka**](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517)
- 
- [**DRAM**](https://academic.oup.com/nar/article/48/16/8883/5884738)
-  
   Call genes with Prodigal 
   
   ORF predicted amino acid sequences are searched against KEGG, Pfam, UniRef90 and MEROPS using MMseqs2 

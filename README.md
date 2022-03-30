@@ -2,7 +2,8 @@
 
 
 
-<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="500"> Comic: Zach Weinersmith
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="550"> 
+Comic: Zach Weinersmith
 
 
 

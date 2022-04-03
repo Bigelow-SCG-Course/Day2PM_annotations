@@ -1,4 +1,4 @@
-# Repo for Day2 PM: Annotations
+# Repo for Day2 PM: (Functional) Annotations
 
 
 
@@ -39,14 +39,4 @@ For the protein coding genes, the function is infered by comparison to databases
   Include tables of the annotation outputs but Melody will explain them using the produced examples
 
 
-*Maria*: Add notebook for the pipeline
-  - Set the environment for prokka
-  - Run prokka in ~10 SAGs (maybe each participants picks one row)
-  - Set the environement for DRAM
-  - Run DRAM in one SAG
-  - Provide link to output for all SAGs
 
-
-*Melody*: Add an extra page discussing 
-  - examples of misannotations
-  - how to refine annotations

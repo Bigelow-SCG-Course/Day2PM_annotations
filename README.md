@@ -47,4 +47,4 @@ $ git clone https://github.com/Bigelow-SCG-Course/Day2PM_annotation.git
 ```
 - [Annotations.ipynb](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/Annotations.ipynb): Then, we will run both Prokka and DRAM in a subset of SAGs.
 - [DRAM_results_mrl.ipyn](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/DRAM_results_mrl.ipynb): Breifly explore DRAM output files.
-- [SCGC_course_day2PM_outputsandmisannotations_03312022.pdf](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/SCGC_course_day2PM_outputsandmisannotations_03312022.pdf): Dive deeper into the DRAM result and annotaion caveats.
+- [SCGC_course_day2PM_outputsandmisannotations_03312022.pdf](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/SCGC_course_day2PM_outputsandmisannotations_03312022.pdf): Dive deeper into the DRAM result and annotation caveats.

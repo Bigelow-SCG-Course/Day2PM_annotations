@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="550"> 
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Picture1.png" width="650"> 
 Comic: Zach Weinersmith
 
 
@@ -35,6 +35,8 @@ For the protein coding genes, the function is infered by comparison to databases
   
 ## DRAM
 [DRAM](https://github.com/WrightonLabCSU/DRAM) has been recently developed for the annotation of genomes and viral contiges. Besides the identification of individual genes, DRAM attemps to put information into context i.e. to assign them to metabolic pathways. Predicted amino acid sequences are searched against [KEGG](https://www.kegg.jp), [Pfam](https://pfam.xfam.org), [UniRef90](https://www.uniprot.org/uniref/) and [MEROPS](https://www.ebi.ac.uk/merops/) using [MMseqs2](https://github.com/soedinglab/MMseqs2). Additionally, HHMER3 is used for HMM profile searches of [dbCAN](https://bcb.unl.edu/dbCAN2/) and [VOGDB](https://vogdb.org).
+
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/DRAM_outline.png" width="650">
   
 
 

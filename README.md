@@ -30,10 +30,10 @@ In this tutorial, we will use two different annotation pipelines, [**Prokka** (S
 For the protein coding genes, the function is infered by comparison to databases of known proteins in a hierarchical matter. Briefly, prokka first searches, using [BLAST+](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421), three (small but well curated) databases, [ISfinder](https://www-is.biotoul.fr/index.php), [NCBI Bacterial Antimicrobial Resistance Reference Gene Database](https://www.ncbi.nlm.nih.gov/bioproject/313047), [UniProtKB (SwissProt)](https://www.uniprot.org/uniprot/). Then [HMMER3](http://hmmer.org) is used for similarity searching against protein family profiles (mostly bacterial specific).
 
 ### Output files
+<img src="https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/intro_images/Prokka_ouput.png" width="500">
   
   
-  
-  DRAM
+## DRAM
   ORF predicted amino acid sequences are searched against KEGG, Pfam, UniRef90 and MEROPS using MMseqs2 
   
   HHMER3 is used for HMM profile searches of dbCAN and VOGDB

@@ -34,11 +34,8 @@ For the protein coding genes, the function is infered by comparison to databases
   
   
 ## DRAM
-  ORF predicted amino acid sequences are searched against KEGG, Pfam, UniRef90 and MEROPS using MMseqs2 
+[DRAM](https://github.com/WrightonLabCSU/DRAM) has been recently developed for the annotation of genomes and viral contiges. Besides the identification of individual genes, DRAM attemps to put information into context i.e. to assign them to metabolic pathways. ORF predicted amino acid sequences are searched against [KEGG](https://www.kegg.jp), [Pfam](https://pfam.xfam.org), [UniRef90](https://www.uniprot.org/uniref/) and [MEROPS](https://www.ebi.ac.uk/merops/) using [MMseqs2](https://github.com/soedinglab/MMseqs2). Additionally, HHMER3 is used for HMM profile searches of [dbCAN](https://bcb.unl.edu/dbCAN2/) and [VOGDB](https://vogdb.org).
   
-  HHMER3 is used for HMM profile searches of dbCAN and VOGDB
-  
-  Include tables of the annotation outputs but Melody will explain them using the produced examples
 
 
 ## Let's get started

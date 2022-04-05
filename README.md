@@ -52,7 +52,7 @@ Other than Prokka and DRAM, there are some other programs used to annotate genom
 - First let's clone this repository into your own working directory. To do so, open up a terminal window and type the following commands:
 ```
 $ cd ~/storage/user_lab/{your_username_here}/
-$ git clone https://github.com/Bigelow-SCG-Course/Day2PM_annotation.git
+$ git clone https://github.com/Bigelow-SCG-Course/Day2PM_annotations.git
 ```
 - [Annotations.ipynb](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/Annotations.ipynb): Then, we will run both Prokka and DRAM in a subset of SAGs.
 - [DRAM_results_mrl.ipyn](https://github.com/Bigelow-SCG-Course/Day2PM_annotations/blob/main/DRAM_results_mrl.ipynb): Briefly explore DRAM output files.
